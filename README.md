@@ -6,9 +6,15 @@
 </p>
 
 <p align="center">
+ <a href="https://github.com/aethelred-foundation/vscode-aethelred/actions/workflows/repo-security-baseline.yml"><img src="https://img.shields.io/github/actions/workflow/status/aethelred-foundation/vscode-aethelred/repo-security-baseline.yml?branch=main&style=flat-square&label=Security" alt="Security"></a>
  <a href="https://marketplace.visualstudio.com/items?itemName=aethelred.vscode-aethelred"><img src="https://img.shields.io/visual-studio-marketplace/v/aethelred.vscode-aethelred?style=flat-square&logo=visualstudiocode" alt="VS Marketplace"></a>
  <a href="https://marketplace.visualstudio.com/items?itemName=aethelred.vscode-aethelred"><img src="https://img.shields.io/visual-studio-marketplace/i/aethelred.vscode-aethelred?style=flat-square&label=installs" alt="Installs"></a>
  <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square" alt="License"></a>
+</p>
+<p align="center">
+ <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+ <img src="https://img.shields.io/badge/Solidity_Syntax-Highlighting-363636?style=flat-square&logo=solidity" alt="Solidity">
+ <a href="https://docs.aethelred.io"><img src="https://img.shields.io/badge/docs-aethelred.io-orange?style=flat-square" alt="Docs"></a>
 </p>
 
 ---
